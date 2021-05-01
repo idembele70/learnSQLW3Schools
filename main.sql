@@ -1,0 +1,1 @@
+SELECT ceil(y.yr/100::double precision) century FROM years y
